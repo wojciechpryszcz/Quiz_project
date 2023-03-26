@@ -4,7 +4,7 @@ Link do api: <https://rickandmortyapi.com/>
 
 ## Cel projektu
 
-Celem projektu było dostarczenie aplikacji pozwalającej sprawdzić swoją wiedzę o postaciach, występujących w wybranym uniwersum.
+Celem projektu jest dostarczenie aplikacji pozwalającej sprawdzić swoją wiedzę o postaciach, występujących w wybranym uniwersum.
 
 ---
 
