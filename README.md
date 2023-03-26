@@ -52,7 +52,12 @@ Przedstawione są wyniki wszystkich graczy
 
 Aby uruchomić aplikację na lokalnej maszynie, wykonaj następujące kroki:
 
-    Zainstaluj zależności za pomocą komendy: npm install
-    Wystartuj serwer developerski npm run dev
+*8Zainstaluj zależności za pomocą komendy:** 
+
+    npm install
+    
+**Wystartuj serwer developerski**
+
+    npm run dev
 
 Aplikacja będzie dostępna pod adresem [localhost:5173](http://127.0.0.1:5173/)
