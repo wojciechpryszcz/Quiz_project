@@ -52,11 +52,11 @@ Przedstawione są wyniki wszystkich graczy
 
 Aby uruchomić aplikację na lokalnej maszynie, wykonaj następujące kroki:
 
-*8Zainstaluj zależności za pomocą komendy:** 
+### Zainstaluj zależności za pomocą komendy
 
     npm install
-    
-**Wystartuj serwer developerski**
+
+### Wystartuj serwer developerski
 
     npm run dev
 
