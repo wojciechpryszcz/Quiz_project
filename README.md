@@ -8,6 +8,12 @@ Celem projektu jest dostarczenie aplikacji pozwalającej sprawdzić swoją wiedz
 
 ---
 
+## Wygląd aplikacji
+
+Projekt można zobaczyć w aplikacj [Figma](https://www.figma.com/file/i0wh9ypUt3L8VKFU16Ilqo/Rick%26Morthy?node-id=1%3A153&t=qaRNff7z4nWHyMvC-1)
+
+---
+
 ## Działanie aplikacji
 
 ### Strona główna
