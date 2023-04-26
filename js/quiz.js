@@ -1,19 +1,8 @@
+const btn = document.querySelector("#counter");
 
-const countdownDuration = 30;
-const timerElement = document.getElementById('timer');
+let counter = 0;
 
-let countdown = countdownDuration;
-let intervalId = setInterval(() => {
-
-  timerElement.textContent = countdown;
-  
-
-  countdown--;
-  
- 
-  if (countdown < 0) {
-    clearInterval(intervalId);
-    timerElement.textContent = 'Time is up!';
-    window.location.href = 'ranking5.html'
-  }
-}, 1000);
+btn.addEventListener("click", () => {
+  counter += 1;
+  btn.textContent = counter;
+});
