@@ -1,3 +1,7 @@
+TO DO
+utworzyć nowy branch z brancha main
+Na ekranie quizu wyświetlić randomową postać (zdjęcie i nazwa)
+
 # Projekt JavaScript - Quiz
 
 Link do api: <https://rickandmortyapi.com/>
